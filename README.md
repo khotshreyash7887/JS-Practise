@@ -1,0 +1,2 @@
+# JS-Practise
+Applying javascript
